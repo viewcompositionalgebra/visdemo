@@ -1,0 +1,2 @@
+DBURL = "postgresql://localhost/test"
+

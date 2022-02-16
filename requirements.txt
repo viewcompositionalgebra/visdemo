@@ -1,0 +1,6 @@
+click
+flask
+flask-socketio
+flask-cors
+psycopg2-binary
+sqlalchemy
